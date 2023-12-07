@@ -1,0 +1,26 @@
+Resultado (Coreano, Método 2): ['일', '이', '삼', '사', '오', '육', '칠', '팔', '구', '십']
+Resultado (Coreano, Método 4): ['월요일', '화요일', '수요일', '목요일', '금요일', '토요일', '일요일']
+Resultado (Noruego, Método 2): ['en', 'to', 'tre', 'fire', 'fem', 'seks', 'sju', 'åtte', 'ni', 'ti']
+Resultado (Nahuatl, Método 1): No es Náhuatl
+Resultado (Nahuatl, Método 2): ['ce', 'ome', 'yei', 'nahui', 'macuilli', 'chicuace', 'chicome', 'chicuei', 'chicnahui', 'mahtlactli']
+Resultado (Nahuatl, Método 3): Traducción no disponible
+Resultado (Coreano, Método 1): No es Coreano
+Resultado (Coreano, Método f): 
+Resultado (Coreano, Método 2): ['일', '이', '삼', '사', '오', '육', '칠', '팔', '구', '십']
+Resultado (Coreano, Método 3): Traducción no disponible
+Resultado (Coreano, Método 4): ['월요일', '화요일', '수요일', '목요일', '금요일', '토요일', '일요일']
+Resultado (Coreano, Método 5): {'안녕하세요': 'Hola', '감사합니다': 'Gracias', '잘 있어요': 'Adiós', '죄송합니다': 'Lo siento', '제 이름은...입니다': 'Mi nombre es...'}
+Resultado (Ruso, Método 2): ['один', 'два', 'три', 'четыре', 'пять', 'шесть', 'семь', 'восемь', 'девять', 'десять']
+Resultado (Ruso, Método 4): ['понедельник', 'вторник', 'среда', 'четверг', 'пятница', 'суббота', 'воскресенье']
+Resultado (Arabe, Método 2): ['واحد', 'اثنان', 'ثلاثة', 'أربعة', 'خمسة', 'ستة', 'سبعة', 'ثمانية', 'تسعة', 'عشرة']
+Resultado (Arabe, Método 5): {'مرحبا': 'Hola', 'شكرا': 'Gracias', 'وداعا': 'Adiós', 'عفوا': 'Disculpa', 'اسمي...': 'Me llamo...'}
+Resultado (Japones, Método 1): No es Japonés
+Resultado (Japones, Método 2): ['一', '二', '三', '四', '五', '六', '七', '八', '九', '十']
+Resultado (Japones, Método 4): ['月曜日', '火曜日', '水曜日', '木曜日', '金曜日', '土曜日', '日曜日']
+Resultado (Japones, Método 5): {'こんにちは': 'Hola', 'ありがとうございます': 'Gracias', 'さようなら': 'Adiós', 'すみません': 'Disculpe'}
+Resultado (Nahuatl, Método 2): ['ce', 'ome', 'yei', 'nahui', 'macuilli', 'chicuace', 'chicome', 'chicuei', 'chicnahui', 'mahtlactli']
+Resultado (Nahuatl, Método 3): Traducción no disponible
+Resultado (Nahuatl, Método 4): ['Tonalpohualli', 'Tonalteteuctli', 'Tonalteteuctontli', 'Tonalteteuctome', 'Tonalteteuctontli', 'Tonalteteuctomahtlactli', 'Tonalteteuctome']
+Resultado (Nahuatl, Método 5): {'Niltze': 'Hola', 'Tlazohcamati': 'Gracias', 'Kwaltokan': 'Adiós', 'Nimitstlazohtla': 'Te amo', 'Kualtemok': 'Bienvenido'}
+Resultado (Coreano, Método 2): ['일', '이', '삼', '사', '오', '육', '칠', '팔', '구', '십']
+Resultado (Coreano, Método 5): {'안녕하세요': 'Hola', '감사합니다': 'Gracias', '잘 있어요': 'Adiós', '죄송합니다': 'Lo siento', '제 이름은...입니다': 'Mi nombre es...'}
