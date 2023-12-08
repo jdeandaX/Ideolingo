@@ -24,3 +24,5 @@ Resultado (Nahuatl, Método 4): ['Tonalpohualli', 'Tonalteteuctli', 'Tonalteteuc
 Resultado (Nahuatl, Método 5): {'Niltze': 'Hola', 'Tlazohcamati': 'Gracias', 'Kwaltokan': 'Adiós', 'Nimitstlazohtla': 'Te amo', 'Kualtemok': 'Bienvenido'}
 Resultado (Coreano, Método 2): ['일', '이', '삼', '사', '오', '육', '칠', '팔', '구', '십']
 Resultado (Coreano, Método 5): {'안녕하세요': 'Hola', '감사합니다': 'Gracias', '잘 있어요': 'Adiós', '죄송합니다': 'Lo siento', '제 이름은...입니다': 'Mi nombre es...'}
+Resultado (Ruso, Método 2): ['один', 'два', 'три', 'четыре', 'пять', 'шесть', 'семь', 'восемь', 'девять', 'десять']
+Resultado (Coreano, Método 3): Traducción no disponible

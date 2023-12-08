@@ -11,15 +11,15 @@ ruta_directorio_padre = os.path.abspath(os.path.join(ruta_actual, '..'))
 if ruta_directorio_padre not in sys.path:
     sys.path.insert(0, ruta_directorio_padre)
 
-from Biblioteca.Japones import Japones
-from Biblioteca.Coreano import Coreano
-from Biblioteca.Ruso import Ruso
-from Biblioteca.Noruego import Noruego
-from Biblioteca.Arabe import Arabe
-from Biblioteca.Chino import Chino
-from Biblioteca.Tailandes import Tailandes
-from Biblioteca.Nahuatl import Nahuatl
-from Biblioteca.Polaco import Polaco
+from Biblioteca.Clases import Japones
+from Biblioteca.Clases import Coreano
+from Biblioteca.Clases import Ruso
+from Biblioteca.Clases import Noruego
+from Biblioteca.Clases import Arabe
+from Biblioteca.Clases import Chino
+from Biblioteca.Clases import Tailandes
+from Biblioteca.Clases import Nahuatl
+from Biblioteca.Clases import Polaco
 
 def obtener_instancia_idioma(opcion):
     return {
